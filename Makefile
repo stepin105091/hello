@@ -15,7 +15,7 @@ test_function.c\
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC	=-Ifunction.h
+#INC	=-Ifunction.h
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
